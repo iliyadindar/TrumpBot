@@ -154,7 +154,7 @@ CMD ["python", "main.py"]
 
 ## 📞 Support
 
-Telegram: [@bettercallninja](https://t.me/bettercallninja)
+Telegram: [@tellmeninja](https://t.me/tellmeninja)
 
 ---
 
