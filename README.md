@@ -160,4 +160,4 @@ Telegram: [@tellmeninja](https://t.me/tellmeninja)
 
 ## 📜 License
 
-MIT © [bettercallninja](https://github.com/bettercallninja)
+MIT © [IliyaDindar](https://github.com/iliyadindar)
